@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/levicook/hello-heroku2",
+	"GoVersion": "go1.3",
+	"Deps": []
+}
